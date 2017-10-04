@@ -1,4 +1,5 @@
 # Magento2 Admin Notification
+
 Extension to add a RSS feed url to the Admin Notification stream in the Magento2 backend.
 
 ## Install with Composer as you go
